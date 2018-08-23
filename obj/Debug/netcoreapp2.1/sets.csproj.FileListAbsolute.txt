@@ -1,0 +1,11 @@
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.csprojAssemblyReference.cache
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.csproj.CoreCompileInputs.cache
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.AssemblyInfoInputs.cache
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.AssemblyInfo.cs
+/Users/jenn/workspace/csharp/sets/bin/Debug/netcoreapp2.1/sets.deps.json
+/Users/jenn/workspace/csharp/sets/bin/Debug/netcoreapp2.1/sets.runtimeconfig.json
+/Users/jenn/workspace/csharp/sets/bin/Debug/netcoreapp2.1/sets.runtimeconfig.dev.json
+/Users/jenn/workspace/csharp/sets/bin/Debug/netcoreapp2.1/sets.dll
+/Users/jenn/workspace/csharp/sets/bin/Debug/netcoreapp2.1/sets.pdb
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.dll
+/Users/jenn/workspace/csharp/sets/obj/Debug/netcoreapp2.1/sets.pdb
